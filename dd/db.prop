@@ -1,0 +1,44 @@
+drivers=sun.jdbc.odbc.JdbcOdbcDriver jdbc.attendance
+attendance.url=jdbc:odbc:attendance
+attendance.user=sxcce
+attendance.password=tamil5india6
+attendance.maxconn=1000
+
+drivers=sun.jdbc.odbc.JdbcOdbcDriver jdbc.xavier
+xavier.url=jdbc:odbc:xavier
+xavier.user=sxcce
+xavier.password=tamil5india6
+xavier.maxconn=1000
+
+drivers=sun.jdbc.odbc.JdbcOdbcDriver jdbc.inventory
+inventory.url=jdbc:odbc:inventory
+inventory.user=sxcce
+inventory.password=tamil5india6
+inventory.maxconn=1000
+drivers=sun.jdbc.odbc.JdbcOdbcDriver jdbc.accounts
+inventory.url=jdbc:odbc:accounts
+inventory.user=sxcce
+inventory.password=tamil5india6
+inventory.maxconn=1000
+drivers=sun.jdbc.odbc.JdbcOdbcDriver jdbc.library
+library.url=jdbc:odbc:library
+library.user=sxcce
+library.password=tamil5india6
+library.maxconn=1000
+drivers=sun.jdbc.odbc.JdbcOdbcDriver jdbc.server2003
+server2003.url=jdbc:odbc:server2003
+server2003.user=login
+server2003.password=logon
+server2003.maxconn=1000
+
+drivers=sun.jdbc.odbc.JdbcOdbcDriver jdbc.essl
+essl.url=jdbc:odbc:essl
+essl.user=test
+essl.password=test
+essl.maxconn=1000
+
+drivers=sun.jdbc.odbc.JdbcOdbcDriver jdbc.esslnew
+esslnew.url=jdbc:odbc:esslnew
+esslnew.user=sa
+esslnew.password=server_2k
+esslnew.maxconn=1000
